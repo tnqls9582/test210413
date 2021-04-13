@@ -6,7 +6,6 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Git!~!");
 		// 왜안대
-		// 비밀번호 잘못쳤나!!
 		
 
 	}
